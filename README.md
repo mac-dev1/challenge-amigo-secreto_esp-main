@@ -1,5 +1,5 @@
 # <em>Challenge Amigo Secreto </em>
-##Índice
+## Índice
 
 [Índice](#índice)
 
